@@ -1,1 +1,1 @@
-// pracownia dokumentowania i testowania aplikacji 
+// pracownia dokumentowania 
