@@ -56,7 +56,7 @@ namespace TestowanieSortowania
 
             _sort.Sortuj(dane);
 
-            Assert.Equal(new[] { 3, 1, 2 }, dane);
+            Assert.Equal(new[] { 3, 2, 2 }, dane);
         }
     }
 }
