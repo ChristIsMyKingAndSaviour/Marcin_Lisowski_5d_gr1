@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Elementy rozwiązania/">
+    <File Path="SortInsercyjny.cs" />
+  </Folder>
+  <Project Path="TestowanieSortowania/TestowanieSortowania.csproj" />
+  <Project Path="UnitTest1/UnitTest1.csproj" />
+</Solution>
