@@ -59,4 +59,7 @@ namespace TestowanieSortowania
             Assert.Equal(new[] { 3, 2, 2 }, dane);
         }
     }
+
+
+
 }
